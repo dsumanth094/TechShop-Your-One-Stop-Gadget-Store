@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Anjiuluva7.github.io/Tech-Shop-ReactJS",
+  "homepage": "https://github.com/dsumanth094/TechShop-Your-One-Stop-Gadget-Store",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
